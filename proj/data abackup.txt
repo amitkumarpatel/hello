@@ -1,0 +1,50 @@
+
+---
+- !ruby/object:House
+  attributes:
+    id: 2
+    houseno: 413/4
+    address1: rampur
+    address2: rampur
+    address3: pune
+    address4: maharastra
+    pinno: 123321
+    owner: harihara
+    created_at: 2012-01-08 12:45:15.000000000Z
+    updated_at: 2012-01-08 12:45:30.000000000Z
+- !ruby/object:House
+  attributes:
+    id: 3
+    houseno: 123/6
+    address1: kantinagar
+    address2: kantinagar
+    address3: sahakarnagar
+    address4: karnataka
+    pinno: 234432
+    owner: ramakanth.g
+    created_at: 2012-01-08 12:50:40.000000000Z
+    updated_at: 2012-01-08 12:50:40.000000000Z
+- !ruby/object:House
+  attributes:
+    id: 6
+    houseno: 345/9
+    address1: rajajinagar
+    address2: bangalore
+    address3: bangalore
+    address4: karnataka
+    pinno: 234567
+    owner: rajajinagar
+    created_at: 2012-01-09 09:13:14.000000000Z
+    updated_at: 2012-01-09 09:15:14.000000000Z
+- !ruby/object:House
+  attributes:
+    id: 7
+    houseno: 567/6
+    address1: ranchi
+    address2: ranchi
+    address3: ranchi
+    address4: ranchi
+    pinno: 234432
+    owner: raju
+    created_at: 2012-01-09 09:16:25.000000000Z
+    updated_at: 2012-01-09 09:16:25.000000000Z
